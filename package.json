@@ -1,6 +1,6 @@
 {
   "name": "nidhin.pp",
-  "homepage": "https://nedhinpp.github.io/nidhin.pp",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
