@@ -4196,35 +4196,12 @@ h6 {
   margin-left: 15px !important;
 }
 
-.react-back {
+.img-bg {
   padding: 0px;
   width: 100%;
   height: 135px;
   vertical-align: middle;
   text-align: center;
-  background-image: url(../img/tools/react.png);
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.js-back {
-  padding: 0px;
-  width: 100%;
-  height: 135px;
-  vertical-align: middle;
-  text-align: center;
-  background-image: url(../img/tools/js.png);
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.psql-back {
-  padding: 0px;
-  width: 100%;
-  height: 135px;
-  vertical-align: middle;
-  text-align: center;
-  background-image: url(../img/tools/psql.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
