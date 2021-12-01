@@ -14,14 +14,14 @@ function Home() {
               <h5 className="text-uppercase">senior web developer</h5>
               <div className="d-flex align-items-center">
                 <a className="primary_btn" href="#contactme"><span>Hire Me</span></a>
-                <a className="primary_btn tr-bg" href="resume/NidhunPP_resume.pdf" target="_new" download=""><span>Get
+                <a className="primary_btn tr-bg" href="../resume/NidhunPP_resume.pdf" target="_new" download=""><span>Get
                     CV</span></a>
               </div>
             </div>
           </div>
           <div className="col-lg-5">
             <div className="home_right_img main_image">
-              <img className="" src="img/banner/home-right.png" alt="" />
+              <img className="" src="../img/banner/home-right.png" alt="" />
             </div>
           </div>
         </div>

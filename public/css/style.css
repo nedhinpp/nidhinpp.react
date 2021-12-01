@@ -4202,7 +4202,7 @@ h6 {
   height: 135px;
   vertical-align: middle;
   text-align: center;
-  background-image: url(/img/tools/react.png);
+  background-image: url(../img/tools/react.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -4213,7 +4213,7 @@ h6 {
   height: 135px;
   vertical-align: middle;
   text-align: center;
-  background-image: url(/img/tools/js.png);
+  background-image: url(../img/tools/js.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -4224,7 +4224,7 @@ h6 {
   height: 135px;
   vertical-align: middle;
   text-align: center;
-  background-image: url(/img/tools/psql.png);
+  background-image: url(../img/tools/psql.png);
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;

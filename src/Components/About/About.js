@@ -8,7 +8,7 @@ function About() {
       <div className="row justify-content-start align-items-center">
         <div className="col-lg-5">
           <div className="about_img">
-            <img className="" src="img/about-us.png" alt="" />
+            <img className="" src="../img/about-us.png" alt="" />
           </div>
         </div>
 
@@ -29,7 +29,7 @@ function About() {
               For over past 5 years, I have worked for some of the best digital agencies and wonderful clients
               to create some extraordinary works. And, I can make this happen for your business as well.
             </p>
-            <a className="primary_btn" href="resume/NidhunPP_resume.pdf" target="_new" download=""><span>Download
+            <a className="primary_btn" href="../resume/NidhunPP_resume.pdf" target="_new" download=""><span>Download
                 CV</span></a>
 
           </div>
