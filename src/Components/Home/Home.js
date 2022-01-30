@@ -14,7 +14,7 @@ function Home() {
               <h5 className="text-uppercase">senior web developer</h5>
               <div className="d-flex align-items-center">
                 <a className="primary_btn" href="#contactme"><span>Hire Me</span></a>
-                <a className="primary_btn tr-bg" href="../resume/NidhunPP_resume.pdf" target="_new" download=""><span>Get
+                <a className="primary_btn tr-bg" href="../resume/NidhinPP_resume.pdf" target="_new" download=""><span>Get
                     CV</span></a>
               </div>
             </div>
